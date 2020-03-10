@@ -6,16 +6,5 @@
 </br>
 
 
-<img src="/Preview/prev02.png">
-</br>
-
-
-
-<img src="/Preview/prev03.png">
-</br>
-
-<img src="/Preview/prev04.png">
-</br>
-
 
 
